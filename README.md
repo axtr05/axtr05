@@ -110,3 +110,5 @@ welcome to my GitHub Page. I am Akshay Krishna a Computer Engineering student wi
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=axtr05&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1e1e1e&title_color=ffffff&icon_color=ffffff&hide=Jupyter%20Notebook" 
        height="192px"/>
 </a>
+
+<br/>
