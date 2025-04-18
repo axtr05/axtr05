@@ -17,6 +17,7 @@ welcome to my GitHub Page. I am Akshay Krishna a Computer Engineering student wi
 
 <br/>
 
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -94,21 +95,17 @@ welcome to my GitHub Page. I am Akshay Krishna a Computer Engineering student wi
 
 <br/>
 
-## Github stats 📊
-
-
+<br/>
+  <h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <img src="https://komarev.com/ghpvc/?username=axtr05&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=axtr05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=axtr05&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axtr05&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<a href="https://github.com/axtr05/github-readme-stats">
-  <img alt="axtr's Github Stats" 
-       src="https://github-readme-stats.vercel.app/api/?username=axtr05&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1e1e1e&title_color=ffffff&icon_color=ffffff" 
-       height="192px"/>
-</a>
-<a href="https://github.com/axtr05/github-readme-stats">
-  <img alt="axtr's Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=axtr05&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1e1e1e&title_color=ffffff&icon_color=ffffff&hide=Jupyter%20Notebook" 
-       height="192px"/>
-</a>
+  <br/>
 
-
+<br/><br/>
