@@ -11,14 +11,14 @@
  
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Akshay Krishna a Computer Engineering student with a dream to learn everything the world of technology has to offer. This is my first step — a space where I turn curiosity into code, ideas into projects, and ambition into reality. The journey has just begun so sit back and enjoy the ride while you can :).
+Welcome. I’m Akshay Krishna, a Computer Science & Engineering student chasing the unseen depths of technology. This is where curiosity becomes code, and silence births creation. The journey begins… tread carefully.
 
 </p>
 
 <br/>
 
 
-## My favorite tools and technologies ⚙️
+## technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
