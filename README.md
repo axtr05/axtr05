@@ -11,7 +11,7 @@
  
 <p></p>
 <p align="justify">
-Welcome. I’m Akshay Krishna, a Computer Science & Engineering student chasing the unseen depths of technology. I am an idiot and i am dumb and i never listen to my friend.She is great but i am dumb and i never listen 
+loading...
 
 </p>
 
