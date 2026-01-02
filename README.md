@@ -45,7 +45,7 @@
 <h2 align="center">⚙️ Tech Arsenal</h2>
 
 <p align="center">
-  <i>Tools & technologies I use to turn ideas into reality </i>
+  <i>Tools & technologies I use to turn ideas into reality</i>
 </p>
 
 <br>
