@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>B.Tech CSE (6th Semester)</b><br>
+  🎓 <b>B.Tech CSE (6th Sem)</b><br>
   💻 Focused on <b>FAANG SDE Internship Prep</b> — DSA, System Design, and DevOps<br>
   ⚙️ Building <b>Full-Stack Web & AI-driven Projects</b><br>
   🧩 Balancing <b>engineering, creativity, and consistency</b> to reach mastery
