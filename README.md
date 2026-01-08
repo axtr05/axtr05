@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    "Crafting systems that think, scale, and inspire."<br>
+    "Crafting systems that think and inspire."<br>
   </em>
 </p>
 
