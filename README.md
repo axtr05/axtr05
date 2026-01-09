@@ -35,7 +35,7 @@
 
 <p align="center">
   🎓 <b>B.Tech CSE (6th Sem)</b><br>
-  💻 Focused on <b>Competive Prorgrmming </b> — DSA & System Designs<br>
+  💻 Focused on <b>Competive Prorgrmming </b> — DSA, DevOps & System Designs<br>
   ⚙️ Building <b>Full-Stack Web & AI-driven Projects</b><br>
   🧩 Balancing <b>engineering, creativity, and consistency</b> to reach mastery
 </p>
