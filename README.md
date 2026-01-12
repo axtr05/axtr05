@@ -33,7 +33,6 @@
   </em>
 </p>
 
-
 <p align="center">
   🎓 <b>B.Tech CSE (6th Sem)</b><br>
   💻 Focused on <b>Competive Prorgrmming </b> — DSA, DevOps & System Designs<br>
