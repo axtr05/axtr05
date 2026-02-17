@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=38&center=true&vCenter=true&width=1000&height=60&lines=Hey+I'm+Akshay+Krishna;Full+Stack+Developer+%7C+ML+Explorer;Building+Relentlessly+%7C+Defying+Limits">
 </h1>
-
 <div align="center">
   <a href="https://www.instagram.com/renown.18/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
