@@ -1,100 +1,69 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=38&center=true&vCenter=true&width=1000&height=60&lines=Hey+I'm+Akshay+Krishna;Full+Stack+Developer+%7C+ML+Explorer;Building+Relentlessly+%7C+Defying+Limits">
-</h1>
 <div align="center">
-  <a href="https://www.instagram.com/renown.18/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshay-krishna-813a53306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=80&lines=Akshay+Krishna;Full+Stack+Developer+%7C+ML+Explorer;Architecting+Scalable+Systems;Mastering+Competitive+Programming" alt="Typing Header">
+</div>
+
+<div align="center">
   <a href="https://axtr05.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF&border=00FFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-krishna-813a53306/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF">
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF">
   </a>
 </div>
 
-<br>
+<br><br>
+
+> ### 💠 OVERVIEW
+> 
+> I am a **Full Stack Developer** and **Machine Learning Explorer** currently in my 6th semester of B.Tech CSE. 
+> 
+> My expertise is forged at the intersection of **scalable web architecture** and **competitive programming** (primarily in C++). I specialize in translating complex algorithmic logic into high-performance, production-ready systems. 
+> 
+> Whether it's optimizing database queries, building seamless React interfaces, or solving advanced algorithmic challenges, my approach remains the same: relentless consistency and engineering precision. The end justifies the means.
+
+<br><br>
+
+<h3 align="center">⚡ TECHNICAL ARSENAL</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=axtr05&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <p align="center"><i>Core Languages & Problem Solving</i></p>
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,java,c&theme=dark" alt="Core Languages" />
+  
+  <br><br>
+  
+  <p align="center"><i>Full Stack Development & Data</i></p>
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,express,mongodb,tailwind&theme=dark" alt="Frameworks & Databases" />
+  
+  <br><br>
+  
+  <p align="center"><i>Architecture & Infrastructure</i></p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman&theme=dark" alt="Infrastructure & Tools" />
 </div>
 
----
+<br><br>
 
-<h2 align="center">🧠 About Me</h2>
+<h3 align="center">📊 PERFORMANCE METRICS</h3>
 
-<p align="center">
-  <em>
-    "Crafting systems that think and inspire."<br>
-  </em>
-</p>
-
-<p align="center">
-  🎓 <b>B.Tech CSE (6th Sem)</b><br>
-  💻 Focused on <b>Competive Prorgrmming </b> — DSA, DevOps & System Designs<br>
-  ⚙️ Building <b>Full-Stack Web & AI-driven Projects</b><br>
-  🧩 Balancing <b>engineering, creativity, and consistecy</b> to reach mastery
-</p>
-
----
-
-<h2 align="center">⚙️ Tech Arsenal</h2>
-
-<p align="center">
-  <i>Tools & technologies I use to turn ideas into reality</i>
-</p>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65"/><br>Django</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br>Firebase</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+<table align="center" style="border-collapse: collapse; background: transparent; border: none;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <b>Algorithm Mastery (LeetCode)</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/axtr_?theme=dark&font=Orbitron&ext=activity" alt="LeetCode Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <b>Development Consistency (GitHub)</b><br><br>
+      <img src="https://streak-stats.demolab.com/?user=axtr05&background=0D1117&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border_radius=4" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">⚡ GitHub Analytics</h2>
+<br><br>
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=axtr05&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=00FFFF" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=axtr05&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axtr05&layout=compact&theme=react&border_radius=10" alt="top langs"/>
-</div>
-
----
-
-<h2 align="center">🖤 Quote</h2>
-
-<p align="center">
-  <em>
-    "The End justifies the means"
-  </em>
-</p>
-
----
-
-<div align="center">
-  
-  <b>💀 Crafted by <a href="https://github.com/axtr05">axtr05</a></b>
-  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" alt="Dynamic Quote" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=axtr05&label=PROFILE+VIEWS&style=flat-square&color=00FFFF&label_color=0D1117" alt="Profile Views">
 </div>
