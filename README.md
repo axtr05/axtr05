@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=80&lines=Akshay+Krishna;Full+Stack+Developer+%7C+ML+Explorer;Architecting+Scalable+Systems;Mastering+Competitive+Programming" alt="Typing Header">
 </div>
 
+
 <div align="center">
   <a href="https://axtr05.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF&border=00FFFF">
